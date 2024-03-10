@@ -1,4 +1,3 @@
-- Soy José Miguel Prieto Páez
 - Estudiante de Ingeniería del Software en la Universidad de Málaga
 - Tengo experiencia programando en Java y estoy aprendiendo C#
 
